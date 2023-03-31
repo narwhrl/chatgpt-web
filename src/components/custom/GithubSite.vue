@@ -3,7 +3,7 @@
     <span>Bulit by</span>
     <a href="https://github.com/narwhrl" target="_blank" class="text-blue-500">
       Narwhrl
-    </a>
+    </a> | 
 		<a href="https://github.com/Chanzhaoyu/chatgpt-web" target="_blank" class="text-blue-500">
       Source
     </a>
